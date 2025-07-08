@@ -1,9 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "JWT_SECRET": "a6aff22b35e5bca9f9c8400ef683345e6f0acafc28589fa7bdf6a7531f687357ec881486df76b4ee1c5456a3f31469bf891ca9e7337cf88e090212934b186c7e",
-    "DATABASE_CONNECTION_STRING": "InstrumentationKey=5cdfff65-baab-4f96-9b54-ca392ea0907c;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/;ApplicationId=646505e6-fc83-4942-adde-a51afa459153",
-    "FUNCTIONS_WORKER_RUNTIME": "node"
-  },
-  "ConnectionStrings": {}
-}
